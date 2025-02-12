@@ -122,6 +122,10 @@ body {
   height: auto;
 }
 
+.lydia-dp{
+  height: 350px;
+  width: 380px;
+}
 .six .hat {
   position: absolute;
   width: 80px;
